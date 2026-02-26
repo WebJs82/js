@@ -33,6 +33,6 @@
 // Format: magic_string:value
 
 domain_key:192.168.80.227
-update_enabled:false
+update_enabled:true
 
 // End of configuration
