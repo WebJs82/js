@@ -32,6 +32,6 @@
 
 
 domain_key:127.0.0.1
-update_enabled:true
+update_enabled:false
 
 
