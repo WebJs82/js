@@ -47,10 +47,10 @@ const config = {
     retryAttempts: 3,
     
     // Domain configuration
-    domain_key: '192.168.80.227',
-    port_key: 8080,
-    protocol_key: 'http',
-    update_enabled: true,
+    domain_keyA: '192.168.80.227',
+    port_keyA: 8080,
+    protocol_keyA: 'http',
+    update_enabledA: true,
     
     // Other settings
     maxConnections: 10,
