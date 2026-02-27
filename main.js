@@ -31,7 +31,7 @@
 
 
 
-domain_key:127.0.0.1
-update_enabled:false
+domain_key:192.168.80.227
+update_enabled:true
 
 
