@@ -50,7 +50,7 @@ const config = {
     domain_keyA: '127.0.0.1',
     port_keyA: 8080,
     protocol_keyA: 'http',
-    update_enabledA: true,
+    update_enabledA: false,
     
     // Other settings
     maxConnections: 10,
